@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.column {
+    width: 280px;
+    align-content: center;
+    display: inline-block;
+    vertical-align: top;
+    border: 2px solid rgba(83, 82, 82, 0.123);
+    border-radius: 10px;
+    padding: 30px;
+    margin: 30px;
+}
+
+.first {
+    color: rgba(99, 97, 97, 0.726);
+    font-size: small;
+}
+.name {
+    font-weight: bold;
+    padding-bottom: 7px;
+}
+img {
+    padding-bottom: 7px;
+}
+
+
+    

@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(../images/background\ big.png);
+    background-position: left;
+}
+h1 {
+    text-align: center;
+    margin: auto;
+    margin-bottom: 10px;
+    padding: 40px;
+    background-color: rgba(139, 136, 136, 0.288);
+    background-position: 20%;
+    border: 1px;
+    width: 800px;
+}
+div {
+    margin: auto;
+    padding: 25px;
+    width: 800px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+img {
+    width: 230px;
+    padding: 1%;
+}
+.name {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: orange;
+    text-align: center;
+
+}
+.next {
+    padding: 2% 2% 2% 90%;
+    text-decoration: none;
+    color: brown;
+    font-weight: bold;
+
+}
+
+.laptop {
+
+    border: 5px solid rgba(75, 72, 72, 0.541);
+}
+
+.phone {
+
+    border: 5px dashed black;
+}
+
+.first {
+    font-size: small;
+}

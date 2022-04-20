@@ -1,0 +1,62 @@
+* , *::before, *::after {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: local(''),
+         url('../fonts/open-sans-v28-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+         url('../fonts/open-sans-v28-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  }
+
+@font-face {
+    font-family: 'Yeseva One';
+    font-style: normal;
+    font-weight: 400;
+    src: local(''),
+         url('../fonts/yeseva-one-v18-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+         url('../fonts/yeseva-one-v18-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  }
+
+
+h1{
+position: absolute;
+width: 130px;
+height: 58px;
+left: 180px;
+top: 282px;
+
+font-family: 'Yeseva One';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 58px;
+/* identical to box height */
+letter-spacing: 0.06em;
+color: #3F4042;
+}
+
+h2 {
+position: absolute;
+width: 355px;
+height: 68px;
+left: 180px;
+top: 347px;
+
+font-family: 'Yeseva One';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 81px;
+letter-spacing: 0.06em;
+
+color: #3F4042;
+}
+
+
+
+

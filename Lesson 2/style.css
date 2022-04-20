@@ -1,0 +1,28 @@
+p{
+    color: rgb(red, rgb(0, 128, 49), blue);
+    font-size: 25px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    line-height: 45px;
+    font-family: Tahoma;
+    min-width: 200px;
+    max-width: 400px;
+}
+a {
+    text-decoration: none;
+    margin-left: 5px;
+}
+span{
+text-decoration: underline;
+}
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    border: solid red;
+    padding: 40px;
+} 
+nav a{
+    text-decoration: none;
+    margin-right: 15px;
+
+}

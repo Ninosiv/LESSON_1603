@@ -1,0 +1,24 @@
+.selected {
+    font-size: 30px;
+    color: red;
+}
+
+div.first{
+    font-size: 25px;
+    color: rgb(red, green, blue);
+}
+.first{
+    font-size: 10px;
+    color: blue;
+}
+.selected span{
+    color: brown;
+    font-size: 25px;
+}
+.last-block p, 
+span.violet{
+    color: violet;
+}
+div.first.selected * {
+    padding-left: 30px;
+}

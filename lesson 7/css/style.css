@@ -1,0 +1,93 @@
+
+
+.container {
+    max-width: 1080px;
+    margin: 0 auto;
+}
+
+
+body {
+    font-family: 'Montserrat';
+    background-color: rgb(255, 232, 187);
+}
+
+h1 {
+    text-align: center;
+    padding: 40px 0;
+}
+
+.block-1 p{
+
+    margin-bottom: 20px;
+    background-color: rgba(119, 114, 114, 0.63);
+}
+
+p.element-2 {
+
+    width:250px;
+    background-color:rgb(151, 151, 29);
+    position: relative;
+    top: -50px;
+    z-index: -1;
+}
+
+p.element-4 {
+    width:250px;
+    background-color:rgba(204, 63, 38, 0.733);
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+p.element-2 span {
+    background-color: red;
+    font-size: 20px;
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+}
+
+p.element-6 {
+    width: 50px;
+    height:50px;
+    color: right;
+    background-color: rgb (32,74,100, 0.36);
+    text-align: center;
+    font-size:40px;
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.warning {
+    width: 300px;
+    background-color: yellow;
+    padding: 20px;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+}
+
+.warning h2 {
+    color: red;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.close {
+    width:10px;
+    height: 20px;
+    background-color: red;
+    text-align: center;
+    line-height: 20px;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    right: 0;
+    transform: translate(50%, -50%);
+}
+
+

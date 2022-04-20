@@ -1,0 +1,41 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    width:800px;
+}
+
+p{
+    color: rgba(211, 224, 22, 0.705);
+    font-size: 25px; 
+    font-weight: 700;
+    letter-spacing: 1px;
+    line-height: 45px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    max-width: 400px;
+    min-width: 200px;
+    border-bottom: 3px solid black;
+}
+
+nav {
+    text-align: center;
+}
+
+nav a{
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+span{
+    text-decoration:underline;
+}
+
+
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    border: solid red;
+    padding: 40px;
+    border-radius: 10px;
+
+}
+
+

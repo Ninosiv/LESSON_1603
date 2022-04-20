@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    padding: 40px;
+    border-radius: 30px;
+}
+h1{
+    text-align: left;
+    padding: 5px;
+    color:rgb(218, 53, 53);
+    font-family: Tahoma;
+    font-weight: 500;
+}
+h2 {
+    text-align: left;
+    padding: 5px;
+    font-weight: 300;
+}
+p {
+    text-align: left;
+    padding: 5px;
+    font-size: small;
+    color: rgb(32, 97, 151);
+    font-family:Arial, Helvetica, sans-serif;
+    width: auto;
+}
+nav{
+    letter-spacing: 1px;
+    font-weight: 200;
+    text-align: left;
+    padding: 5px;
+    color: black;
+}
+a {
+    text-decoration: none;
+}
